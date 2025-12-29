@@ -1,3 +1,5 @@
+package marcio.pedroso.firstweek;
+
 public class StudentReport {
     public static void main(String[] args) {
         int finalScore = 85;

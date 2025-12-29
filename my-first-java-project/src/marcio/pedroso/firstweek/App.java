@@ -1,3 +1,5 @@
+package marcio.pedroso.firstweek;
+
 public class App {
     public static void main(String[] args) {
         String firstName = "Marcio";
