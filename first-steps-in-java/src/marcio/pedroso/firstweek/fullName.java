@@ -5,11 +5,11 @@ public class fullName {
         String firstName = "Marcio";
         String lastName = "Pedroso";
 
-        String fullName = fullName(firstName, lastName);
-        System.out.println(fullName);
+        String fullNames = fullNames(firstName, lastName);
+        System.out.println(fullNames);
     }
 
-    public static String fullName (String firstName, String lastName) {
+    public static String fullNames (String firstName, String lastName) {
         return "Result of method: " + firstName.concat(" ").concat(lastName);
     }
 }
