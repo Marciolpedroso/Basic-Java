@@ -1,6 +1,6 @@
 package marcio.pedroso.firstweek;
 
-public class App {
+public class fullName {
     public static void main(String[] args) {
         String firstName = "Marcio";
         String lastName = "Pedroso";
