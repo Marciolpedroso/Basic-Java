@@ -21,5 +21,8 @@ public class Operators {
             double result = (10 * 7) + (20/4);
 
             String fullName = "Marcio" + "Pedroso"; //The operator + when used in Strings results in concat, not in math operation.
+
+            concat = 1+1+1+"1"; //Result 31
+            concat2 = 1+"1"+1+1; //Result 1111
     }
 }
