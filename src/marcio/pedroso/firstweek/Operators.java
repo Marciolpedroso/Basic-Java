@@ -24,7 +24,7 @@ public class Operators {
             String fullName = "Marcio" + "Pedroso"; //The operator + when used in Strings results in concat, not in math operation.
 
 
-            concat = 1+1+1+"1"; //Result 31
-            concat2 = 1+"1"+1+1; //Result 1111
+            //concat = 1+1+1+"1"; //Result 31
+            //concat2 = 1+"1"+1+1; //Result 1111
     }
 }
